@@ -1,4 +1,4 @@
-Olá, meu nome é Paulo Gomes e desenvolvi essa pequena automação usando o framework Capybara. Abaixo segue as instruções de como preparar o ambiente para rodar a automação desde instalar Ruby até baixar o projeto da automação.
+Olá, meu nome é Geraldo Vieira de Almeida- e desenvolvi essa pequena automação usando o framework Capybara. Abaixo segue as instruções de como preparar o ambiente para rodar a automação desde instalar Ruby até baixar o projeto da automação.
 
  Configurando o Ambiente no Windows:
 
